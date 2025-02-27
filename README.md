@@ -36,7 +36,7 @@ This repository covers projects in various domains, including:
 ## 🚀 How to Use
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/university-projects.git
+   git clone https://github.com/asmsayem04/UniversityProjects.git
    ```
 2. Navigate to a project folder:
    ```sh
