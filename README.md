@@ -46,7 +46,7 @@ This repository covers projects in various domains, including:
 If you're interested in contributing or collaborating, feel free to fork this repo and submit a pull request! 😊
 
 ## 📜 License
-This repository is licensed under the **MIT License**. Feel free to use and modify the code as needed.
+I haven't licensed this rep. Feel free to use and modify the code as needed.
 
 ---
 🔗 **Connect with Me:**  
