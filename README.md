@@ -5,7 +5,7 @@ Welcome to my **University Projects Repository**! 🚀 This repository contains 
 
 ## 📂 Repository Structure
 ```bash
-university-projects/
+UniversityProjects/
 ├── Semester-1/
 │   ├── Course-1/
 │   │   ├── Project-1/
