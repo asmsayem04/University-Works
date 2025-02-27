@@ -52,5 +52,5 @@ I haven't licensed this rep. Feel free to use and modify the code as needed.
 🔗 **Connect with Me:**  
 📧 Email: asmsayem004@gmail.com
 🌐 Portfolio: Not Created Yet 
-💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/asmsayem04)  
+💼 LinkedIn: [linkedin.com/in/asmsayem04](https://linkedin.com/in/asmsayem04)  
 
