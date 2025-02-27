@@ -38,7 +38,7 @@ This repository covers projects in various domains, including:
    ```
 2. Navigate to a project folder:
    ```sh
-   cd university-projects/Semester-X/Course-Y/Project-Z
+   cd UniversityProjects/Semester-X/Course-Y/Project-Z
    ```
 3. Follow the instructions in the **README.md** inside each project folder.
 
