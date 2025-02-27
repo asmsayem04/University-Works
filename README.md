@@ -21,8 +21,6 @@ university-projects/
 │   │   ├── Project-1/
 │
 ├── README.md
-├── .gitignore
-├── LICENSE
 ```
 
 ## 🛠 Technologies Used
