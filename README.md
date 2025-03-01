@@ -1,11 +1,11 @@
-# UniversityProjects
+# University-Works
 # 🎓 University Projects – CSE
 
 Welcome to my **University Projects Repository**! 🚀 This repository contains all my **Computer Science & Engineering (CSE)** projects, assignments, and coursework, organized by semester and course. Each project includes source code, documentation, and reports.
 
 ## 📂 Repository Structure
 ```bash
-UniversityProjects/
+University-Works/
 ├── Semester-1/
 │   ├── Course-1/
 │   │   ├── Project-1/
@@ -34,11 +34,11 @@ This repository covers projects in various domains, including:
 ## 🚀 How to Use
 1. Clone this repository:
    ```sh
-   git clone https://github.com/asmsayem04/UniversityProjects.git
+   git clone https://github.com/asmsayem04/University-Works.git
    ```
 2. Navigate to a project folder:
    ```sh
-   cd UniversityProjects/Semester-X/Course-Y/Project-Z
+   cd University-Works/Semester-X/Course-Y/Project-Z
    ```
 3. Follow the instructions in the **README.md** inside each project folder.
 
@@ -46,7 +46,7 @@ This repository covers projects in various domains, including:
 If you're interested in contributing or collaborating, feel free to fork this repo and submit a pull request! 😊
 
 ## 📜 License
-I haven't licensed this repo. Feel free to use and modify the code as needed.
+I haven't licensed this repo (not planning in future yet). Feel free to use and modify the code as needed.
 
 ---
 🔗 **Connect with Me:**  
