@@ -1,7 +1,7 @@
 # University-Works
-# 🎓 University Projects – CSE
+# 🎓 University-Works – CSE
 
-Welcome to my **University Projects Repository**! 🚀 This repository contains all my **Computer Science & Engineering (CSE)** projects, assignments, and coursework, organized by semester and course. Each project includes source code, documentation, and reports.
+Welcome to my **University-Works Repository**! 🚀 This repository contains all my **Computer Science & Engineering (CSE)** projects, assignments, and coursework, organized by semester and course. Each project includes source code, documentation, and reports.
 
 ## 📂 Repository Structure
 ```bash
