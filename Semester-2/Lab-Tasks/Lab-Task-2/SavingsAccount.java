@@ -1,18 +1,20 @@
+public class SavingsAccount extends BankAccount{
 
-public class SavingsAccount extends BankAccount {
-
+    private double minimumBalance = 500;
     @Override
-    public double withdrew(double amount) {
-
-        if(amount < 0) {
+    public void Withdraw() {
+        System.out.print("Enter the Amount to Withdraw: ");
+        double amount = input.nextDouble();
+        if(amount <= 0){
             System.out.println("Invalid Amount");
-        } else{
-        if (balance < 500) {
-            System.out.println("Insufficient Balance");
-        } else {
+            return;
+        }
+        else if(balance - amount >= minimumBalance) {
             balance = balance - amount;
+            System.out.println("TK "+amount+" Withdraw Successful");
+            System.out.println("Current Balance: " + balance);
+        } else {
+            System.out.println("Minimum Balance should be maintained");
         }
     }
-    }
-
 }
