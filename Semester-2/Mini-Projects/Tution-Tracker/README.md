@@ -139,14 +139,14 @@ src/
 5. Payment tracking
 
 ### Author
-[A S M Sayem
-[ID: 2024-3-60-6115]
-[East West University]
+- A S M Sayem
+- ID: 2024-3-60-6115
+- East West University
 
 ### Course Information
 - Course: Object Oriented Programming
-- Semester: [Spring 2025]
-- Year: [2025]
+- Semester: Spring 2025
+- Year: 2025
 
 ### License
 This project is created for educational purposes as part of the Object Oriented Programming course.
